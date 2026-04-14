@@ -2,9 +2,7 @@
 title: Chris Basinger
 email: evilthreads666@atomicmail.io
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "I’m a self-taught Android developer with over 10 years of experience building apps independently. I’m a highly motivated, goal-oriented, selfless leader that is driven by a strong passion for creating Android apps with the latest technologies.
-
-I fully immerse myself in different types of fitness, sports, meditation, and martial arts while I develop mobile apps for them."
+description: "My name is Chris Basinger and I am an Android developer who lives in Rockwall, Texas."
 keywords: "kotlin,ktor,android developer,android development,exposed,coroutines,java"
 skills: "Android Developer"
 meta_author: Basinger Chris
@@ -40,7 +38,6 @@ color:
 # Footer settings
 footer:
   copyright: Chris Basinger
-  location: Rockwall, Texas
   social: Around the Web
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
