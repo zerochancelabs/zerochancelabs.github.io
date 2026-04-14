@@ -1,11 +1,13 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
+title: Chris Basinger
+email: zerochancelabs@atomicmail.io
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+description: "I’m a self-taught Android developer with over 10 years of experience building apps independently. I’m a highly motivated, goal-oriented, selfless leader that is driven by a strong passion for creating Android apps with the latest technologies.
+
+I fully immerse myself in different types of fitness, sports, meditation, and martial arts while I develop mobile apps for them."
+keywords: "kotlin,ktor,android developer,android development,exposed,coroutines,java"
+skills: "Android Development - Ktor - Kotlin"
+meta_author: Basinger Chris
 
 plugins:
   - jekyll-remote-theme
