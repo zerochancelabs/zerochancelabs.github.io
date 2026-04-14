@@ -58,6 +58,10 @@ address:
 markdown: kramdown
 permalink: pretty
 
+collections:
+  updates:
+    output: true
+
 #for posts
 defaults:
   - scope:
@@ -65,3 +69,4 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+

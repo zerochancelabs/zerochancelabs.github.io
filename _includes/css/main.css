@@ -4,6 +4,78 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+.scrolling-feed {
+    display: flex;
+    overflow-x: auto;
+    gap: 1.5rem;
+    padding: 1rem 0;
+    scroll-snap-type: x mandatory;
+}
+
+/* Card */
+.post-card {
+    min-width: 320px;
+    max-width: 320px;
+    background: #fff;
+    border-radius: 16px;
+    padding: 1rem;
+    flex: 0 0 auto;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    scroll-snap-align: start;
+    transition: 0.3s ease;
+    font-size: 1.2rem;
+}
+
+.post-card:hover {
+    transform: translateY(-6px);
+}
+
+/* Header */
+.post-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.75rem;
+}
+
+.post-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #2c3e50;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+}
+
+.post-name {
+    font-weight: 600;
+    font-size: 0.95rem;
+}
+
+.post-time {
+    font-size: 0.8rem;
+    color: #888;
+}
+
+/* Content */
+.post-content {
+    font-size: 0.95rem;
+    color: #444;
+    margin-bottom: 0.75rem;
+    line-height: 1.4;
+}
+
+/* Image */
+.post {
+    width: 100%;
+    border-radius: 12px;
+    margin-top: 0.5rem;
+    object-fit: cover;
+    max-height: 180px;
+}
+
 body {
     overflow-x: hidden;
 }
@@ -251,6 +323,7 @@ section.success {
         margin: 0 0 30px;
     }
 }
+
 
 /* Flexbox Portfolio Grid */
 @media (min-width: 640px) {
