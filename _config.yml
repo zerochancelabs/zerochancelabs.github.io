@@ -7,6 +7,11 @@ keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: LastName FirstName
 
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: jeromelachaud/freelancer-theme
+
 # Google webmaster tools
 google_verify:
 
