@@ -23,7 +23,7 @@
     box-shadow: 0 10px 25px rgba(0,0,0,0.08);
     scroll-snap-align: start;
     transition: 0.3s ease;
-    font-size: 1.2rem;
+    font-size: 1.5rem !important;
 }
 
 .post-card:hover {
@@ -51,17 +51,14 @@
 
 .post-name {
     font-weight: 600;
-    font-size: 0.95rem;
 }
 
 .post-time {
-    font-size: 0.8rem;
     color: #888;
 }
 
 /* Content */
 .post-content {
-    font-size: 0.95rem;
     color: #444;
     margin-bottom: 0.75rem;
     line-height: 1.4;
