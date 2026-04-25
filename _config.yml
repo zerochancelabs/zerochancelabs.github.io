@@ -46,15 +46,15 @@ social:
     url: https://strava.app.link/Mcwf7mv1k2b
   - title: instagram
     url: https://instagram.com/trailguy1990
-  - title: linkedin
-    url: https://www.linkedin.com/in/chris-basinger-91207b403/
   - title: youtube
     url: https://www.youtube.com/@chrisbasinger1990
+  - title: twitch
+    url: https://www.twitch.tv/zerochancelabs
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: Zero Chance Labs
-  - line: Rockwall, TX 75087
+#address:
+#  - line: Zero Chance Labs
+#  - line: Rockwall, TX 75087
 
 # Build settings
 markdown: kramdown
