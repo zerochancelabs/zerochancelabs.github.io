@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2026-04-10
+img: weight_tracker_app.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2026
+client: Personal Project
+category: Android App Development
+description: This app allows the user to track their weight over time by entering it into the app however often they'd like. The user can set a goal weight to work towards and the app will provide analytics that helps the user in viewing their weight loss progress.
 ---

@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cake.png
+date: 2026-04-27
+img: inventory_app.png
 alt: image-alt
-project-date: April 2014
-client: Open Source
-category: Android Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2026
+client: Personal Project
+category: Android App Development
+description: The app is an inventory app that allows you to create products, categories, and suppliers. You can edit the stock for each product. There is also a nice dashboard to provide you with analytics about the value of your inventory and low stock items.
 ---
