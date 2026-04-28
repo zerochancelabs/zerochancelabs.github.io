@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2026-04-16
+img: invoice_app.png
+alt: image-alt
+project-date: April 2026
+client: Personal Project
+category: Android App Development
+description: This is an app for creating nvoices. The app allows you to create clients, products, services, and companies. You can create and store digital invoices as well as print or email them.
+images:
+  - /img/portfolio/invoice_app_1.png
+---

@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2026-04-10
 img: weight_tracker_app.png
 alt: image-alt
@@ -8,4 +8,6 @@ project-date: April 2026
 client: Personal Project
 category: Android App Development
 description: This app allows the user to track their weight over time by entering it into the app however often they'd like. The user can set a goal weight to work towards and the app will provide analytics that helps the user in viewing their weight loss progress.
+images:
+  - /img/portfolio/weight_tracker_app_1.png
 ---
