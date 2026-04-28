@@ -10,4 +10,6 @@ category: Android App Development
 description: This app allows the user to track their weight over time by entering it into the app however often they'd like. The user can set a goal weight to work towards and the app will provide analytics that helps the user in viewing their weight loss progress.
 images:
   - /img/portfolio/weight_tracker_app_1.png
+  - /img/portfolio/weight_tracker_app_2.png
+  - /img/portfolio/weight_tracker_app_3.png
 ---

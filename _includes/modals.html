@@ -16,10 +16,10 @@
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-            <div class="row">
+            <div class="row image-row">
               {% for image in post.images %}
-              <div class="col-md-4">
-                <img src="{{ image }}" class="img-fluid rounded mb-2" alt="">
+              <div class="col-6 col-md-4 image-col">
+                <img src="{{ image | relative_url }}" class="img-responsive rounded" alt="">
               </div>
               {% endfor %}
             </div>

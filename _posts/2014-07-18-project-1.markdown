@@ -10,4 +10,7 @@ category: Android App Development
 description: The app is an inventory app that allows you to create products, categories, and suppliers. You can edit the stock for each product. There is also a nice dashboard to provide you with analytics about the value of your inventory and low stock items.
 images:
   - /img/portfolio/inventory_app_1.png
+  - /img/portfolio/inventory_app_2.png
+  - /img/portfolio/inventory_app_3.png
+  - /img/portfolio/inventory_app_4.png
 ---
