@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 3
+title: Weight Tracker App
 date: 2026-04-10
 img: weight_tracker_app.png
 alt: image-alt

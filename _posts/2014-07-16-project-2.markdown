@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 2
+title: Invoice App
 date: 2026-04-16
 img: invoice_app.png
 alt: image-alt

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Inventory App
 modal-id: 1
 date: 2026-04-27
 img: inventory_app.png
