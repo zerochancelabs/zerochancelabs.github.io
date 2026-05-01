@@ -1,0 +1,15 @@
+<section class="page-section" id="photos">
+  <div class="container">
+    <div class="text-center">
+      <h2 class="section-heading text-uppercase">Photos</h2>
+      <hr class="star-primary">
+    </div>
+    <div class="photo-strip">
+      {% for photo in site.photo %}
+      <div class="photo-card">
+        <img src="{{ site.baseurl }}{{ photo.src }}" alt="">
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

@@ -1,7 +1,8 @@
 # Site settings
 title: Chris Basinger
 email: evilthreads666@atomicmail.io
-url: https://github.com/jeromelachaud/freelancer-theme
+url: https://zerochancelabs.github.io
+baseurl: ""
 description: "My name is Chris Basinger and I am an Android developer who lives in Rockwall, Texas."
 keywords: "kotlin,ktor,android developer,android development,exposed,coroutines,java"
 skills: "Android Developer"
@@ -50,6 +51,15 @@ social:
     url: https://www.youtube.com/@chrisbasinger1990
   - title: twitch
     url: https://www.twitch.tv/zerochancelabs
+
+photo:
+  - src: /img/photos/1.jpg
+  - src: /img/photos/2.jpg
+  - src: /img/photos/3.jpg
+  - src: /img/photos/4.jpg
+  - src: /img/photos/6.jpg
+  - src: /img/photos/7.jpg
+  - src: /img/photos/8.jpg
 
 # Postal address (add as many lines as necessary)
 #address:
