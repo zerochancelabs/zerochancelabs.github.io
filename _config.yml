@@ -53,13 +53,13 @@ social:
     url: https://www.twitch.tv/zerochancelabs
 
 photo:
-  - src: /img/photos/1.jpg
-  - src: /img/photos/2.jpg
-  - src: /img/photos/3.jpg
-  - src: /img/photos/4.jpg
-  - src: /img/photos/6.jpg
-  - src: /img/photos/7.jpg
-  - src: /img/photos/8.jpg
+  - src: /img/gallery/1.jpg
+  - src: /img/gallery/2.jpg
+  - src: /img/gallery/3.jpg
+  - src: /img/gallery/4.jpg
+  - src: /img/gallery/6.jpg
+  - src: /img/gallery/7.jpg
+  - src: /img/gallery/8.jpg
 
 # Postal address (add as many lines as necessary)
 #address:
