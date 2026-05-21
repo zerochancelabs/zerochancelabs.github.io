@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Coding Time Tracker App
 modal-id: 4
+title: Coding Time Tracker App
 date: 2026-05-11
-img: time_tracker.png
+img: coding_time_tracker.png
 alt: image-alt
 project-date: May 2026
 client: Personal Project
