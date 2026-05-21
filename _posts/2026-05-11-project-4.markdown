@@ -1,0 +1,20 @@
+---
+layout: default
+title: Coding Time Tracker App
+modal-id: 4
+date: 2026-05-11
+img: time_tracker.png
+alt: image-alt
+project-date: May 2026
+client: Personal Project
+category: Android App Development
+description: This is a coding time tracker app that allows you to create projects and keep track of how much time you spend on tasks within a project and the project itself. It also keeps track of how much time you spend with each programming language. It also allows you to track and manage issues or bugs. You can share your completed projects, tasks, and sessions to social media with a photo.
+images:
+  - /img/portfolio/time_tracker_1.png
+  - /img/portfolio/time_tracker_2.png
+  - /img/portfolio/time_tracker_3.png
+  - /img/portfolio/time_tracker_4.png
+  - /img/portfolio/time_tracker_5.png
+  - /img/portfolio/time_tracker_6.png
+  - /img/portfolio/time_tracker_7.png
+---
